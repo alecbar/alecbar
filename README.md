@@ -1,4 +1,13 @@
-### Hi 👋
+### Hey 👋
+
+#### I'm currently learning, enjoying, and creating with:
+- Python
+- JavaScript
+- React
+- Node
+- HTML/CSS
+- Azure
+
 
 <!--
 **alecbar/alecbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
